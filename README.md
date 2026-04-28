@@ -32,5 +32,12 @@ This project helps in understanding basic DOM manipulation and event handling.
 
 ---
 
+## 🌐 Live Demo
+
+🚀 Try it here:  
+👉 [Counter App Live](https://counterapp2026.netlify.app/)
+
+
+
 ## 👨‍💻 Author
 Made by Me 🚀 (learning web development)
